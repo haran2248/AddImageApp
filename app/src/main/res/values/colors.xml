@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/lightblue600</color>
+    <color name="colorPrimaryDark">@color/indigo800</color>
+    <color name="colorAccent">@color/yellow700</color>
+
+    //additional colors
+    <color name="indigo800">#283593</color>
+    <color name="lightblue600">#039be5</color>
+    <color name="yellow700">#fbc02d</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+</resources>
